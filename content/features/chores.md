@@ -15,7 +15,7 @@ features:
     description: "Assign a star value to each chore so kids know exactly what they will earn."
 demo:
   description: "Watch how simple it is to add, edit and complete chores as a family."
-  image: "/images/feature-1.svg"
+  image: "/images/screenshots/chores-tracking.png"
 ---
 
 ## Keep Everyone on Task
