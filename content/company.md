@@ -12,4 +12,4 @@ Our mission is simple:
 
 We're a lean team of parents and developers passionate about creating a safe, reliable experience for managing chores, earning stars, and celebrating achievements.
 
-Want to get in touch or contribute? Visit our [GitHub repository](https://github.com/yourusername/shabash) or email us at support@shabashkids.online.
+Want to get in touch? Fill out this form https://forms.gle/eCXnWbSvAFcMpaGb6

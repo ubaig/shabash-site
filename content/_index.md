@@ -47,18 +47,6 @@ description: "An easy, fun way for families to manage chores, earn stars, and cl
     imagePosition="left"
 >}}
 
-{{< feature
-    title="Shared Calendar & Notifications"
-    description="Keep the family on schedule with calendar events and real‑time notifications whenever chores or stars change."
-    badge="Calendar"
-    badgeColor="#16a34a"
-    image="/images/feature-3.svg"
-    buttonText="Discover"
-    buttonLink="/features/calendar/"
-    features="Events view,Email reminders,Mobile alerts,Timezone support"
-    imagePosition="right"
->}}
-
 {{< /features-section >}}
 
 {{< testimonials 

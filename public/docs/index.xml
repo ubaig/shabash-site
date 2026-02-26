@@ -1,11 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Documentation on Shabash</title><link>https://saasify-demo.chaoming.li/docs/</link><description>Recent content in Documentation on Shabash</description><generator>Hugo</generator><language>en</language><atom:link href="https://saasify-demo.chaoming.li/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>FAQ</title><link>https://saasify-demo.chaoming.li/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://saasify-demo.chaoming.li/docs/faq/</guid><description>&lt;h3 id="can-multiple-parents-manage-the-same-family"&gt;Can multiple parents manage the same family?&lt;/h3&gt;
-&lt;p&gt;Yes. Once you invite another parent using their email, they will have equal access to chores, rewards, and settings for the family.&lt;/p&gt;
-&lt;h3 id="how-do-kids-log-in"&gt;How do kids log in?&lt;/h3&gt;
-&lt;p&gt;Kids don&amp;rsquo;t need to login, either a parent or adult can login the site and switch to kids mode, or parents can go to settings and generate a family shared link and open the app using that on kids devices. Kids cannot modify family settings.&lt;/p&gt;</description></item><item><title>Getting Started</title><link>https://saasify-demo.chaoming.li/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://saasify-demo.chaoming.li/docs/getting-started/</guid><description>&lt;p&gt;Welcome to &lt;strong&gt;Shabash&lt;/strong&gt;! This guide will walk you through the basic steps to start managing chores with your family.&lt;/p&gt;
-&lt;h2 id="1-create-a-family-account"&gt;1. Create a Family Account&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Navigate to the homepage and click &lt;strong&gt;Get Started&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Fill out your email, display name, and password. An email verification code will be sent to you.&lt;/li&gt;
-&lt;li&gt;Enter the code to verify your email and activate your account.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;By default, the first user becomes a family parent and a new family is created. You can invite other parents and children later.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Shabash</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Documentation on Shabash</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQ</title>
+      <link>http://localhost:1313/docs/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/faq/</guid>
+      <description>&lt;h3 id=&#34;can-multiple-parents-manage-the-same-family&#34;&gt;Can multiple parents manage the same family?&lt;/h3&gt;&#xA;&lt;p&gt;Yes. Once you invite another parent using their email, they will have equal access to chores, rewards, and settings for the family.&lt;/p&gt;&#xA;&lt;h3 id=&#34;how-do-kids-log-in&#34;&gt;How do kids log in?&lt;/h3&gt;&#xA;&lt;p&gt;Kids don&amp;rsquo;t need to login, either a parent or adult can login the site and switch to kids mode, or parents can go to settings and generate a family shared link and open the app using that on kids devices. Kids cannot modify family settings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started</title>
+      <link>http://localhost:1313/docs/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/getting-started/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;Shabash&lt;/strong&gt;! This guide will walk you through the basic steps to start managing chores with your family.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-create-a-family-account&#34;&gt;1. Create a Family Account&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Navigate to the homepage and click &lt;strong&gt;Get Started&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Fill out your email, display name, and password. An email verification code will be sent to you.&lt;/li&gt;&#xA;&lt;li&gt;Enter the code to verify your email and activate your account.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;By default, the first user becomes a family parent and a new family is created. You can invite other parents and children later.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

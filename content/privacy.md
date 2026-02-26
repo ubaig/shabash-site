@@ -81,6 +81,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have questions about this Privacy Policy, please contact us at:
 
-* **Email:** support@shabashkids.online
+* **Feedback Form:** [Feedback Form](https://forms.gle/eCXnWbSvAFcMpaGb6)
 
 *Last Updated: Feburary 2026*
