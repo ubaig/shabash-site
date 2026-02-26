@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vercel on Shabash</title><link>https://info.shabashkids.online/tags/vercel/</link><description>Recent content in Vercel on Shabash</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 26 Feb 2026 15:28:52 -0500</lastBuildDate><atom:link href="https://info.shabashkids.online/tags/vercel/index.xml" rel="self" type="application/rss+xml"/><item><title>Deploying Hugo Sites: A Complete Guide</title><link>https://info.shabashkids.online/blog/deploying-hugo-sites/</link><pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate><guid>https://info.shabashkids.online/blog/deploying-hugo-sites/</guid><description>&lt;div class="bg-gray-50 p-6 rounded-lg mb-8"&gt;
+ &lt;h2 class="text-xl font-semibold mb-4"&gt;Table of Contents&lt;/h2&gt;
+ &lt;nav id="TableOfContents"&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#popular-deployment-platforms"&gt;Popular Deployment Platforms&lt;/a&gt;
+ &lt;ul&gt;
+ &lt;li&gt;&lt;a href="#1-netlify"&gt;1. Netlify&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#2-vercel"&gt;2. Vercel&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#3-github-pages"&gt;3. GitHub Pages&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/li&gt;
+ &lt;li&gt;&lt;a href="#deployment-best-practices"&gt;Deployment Best Practices&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#performance-considerations"&gt;Performance Considerations&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#security-measures"&gt;Security Measures&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#conclusion"&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#resources"&gt;Resources&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/div&gt;
+
+&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Once you&amp;rsquo;ve built your Hugo site, the next step is deploying it to make it accessible to the world. This guide covers various deployment options and best practices.&lt;/p&gt;
+&lt;h2 id="popular-deployment-platforms"&gt;Popular Deployment Platforms&lt;/h2&gt;
+&lt;h3 id="1-netlify"&gt;1. Netlify&lt;/h3&gt;
+&lt;p&gt;Netlify offers a seamless deployment experience:&lt;/p&gt;
+
+
+
+
+&lt;div class="not-prose my-8 overflow-hidden rounded-lg bg-gray-900 shadow-lg"&gt;
+ 
+ &lt;div class="flex items-center justify-between px-4 py-2 bg-gray-800 border-b border-gray-700"&gt;
+ &lt;div class="text-sm text-gray-200 font-mono"&gt;terminal&lt;/div&gt;
+ &lt;div class="flex space-x-2"&gt;
+ &lt;div class="w-3 h-3 rounded-full bg-red-500"&gt;&lt;/div&gt;
+ &lt;div class="w-3 h-3 rounded-full bg-yellow-500"&gt;&lt;/div&gt;
+ &lt;div class="w-3 h-3 rounded-full bg-green-500"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+ &lt;div class="p-4 overflow-x-auto"&gt;
+ &lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="c1"&gt;# Create netlify.toml&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;[&lt;/span&gt;build&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nv"&gt;publish&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;public&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nb"&gt;command&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;hugo --gc --minify&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;[&lt;/span&gt;build.environment&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nv"&gt;HUGO_VERSION&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;0.95.0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id="2-vercel"&gt;2. Vercel&lt;/h3&gt;
+&lt;p&gt;Vercel provides excellent performance and analytics.&lt;/p&gt;</description></item></channel></rss>
