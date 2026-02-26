@@ -1,5 +1,5 @@
 baseURL = "https://saasify-demo.chaoming.li/"
-title = "Saasify"
+title = "Shabash"
 defaultContentLanguage = "en"
 
 # Theme Config
@@ -9,7 +9,7 @@ theme = "hugo-saasify-theme"
 enableEmoji = true
 
 # Enable Git info for lastmod
-enableGitInfo = false
+enableGitInfo = true
 
 # Enable taxonomies
 [taxonomies]
@@ -24,7 +24,7 @@ enableGitInfo = false
 [params]
   description = ""
   author = "Chaoming Li"
-  logo = "/images/logo.svg"
+  logo = "/images/logo.png"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
   
@@ -72,7 +72,7 @@ enableGitInfo = false
     
     # Logo configuration
     [params.header.logo]
-      src = "/images/logo.svg"
+      src = "/images/logo.png"
     
     # Menu configuration
     [params.header.menu]
