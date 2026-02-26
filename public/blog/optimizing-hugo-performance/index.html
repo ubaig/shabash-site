@@ -408,8 +408,8 @@
 </span><span class="lnt">8
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">{{ $image := .Page.Resources.GetMatch (printf &#34;%s&#34; (.Get &#34;src&#34;)) }}
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="err">
+</span></span></span><span class="line"><span class="cl">{{ $image := .Page.Resources.GetMatch (printf &#34;%s&#34; (.Get &#34;src&#34;)) }}
 </span></span><span class="line"><span class="cl">{{ $options := dict &#34;targetWidth&#34; 800 &#34;quality&#34; 85 }}
 </span></span><span class="line"><span class="cl">{{ $processed := $image.Process &#34;resize 800x webp q85&#34; }}
 </span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">img</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;{{ $processed.RelPermalink }}&#34;</span> 

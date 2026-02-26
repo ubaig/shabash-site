@@ -8,7 +8,7 @@ type: "docs"
 Yes. Once you invite another parent using their email, they will have equal access to chores, rewards, and settings for the family.
 
 ### How do kids log in?
-Children receive an invitation email with a temporary password. They can log in and will see only the tasks and rewards assigned to them. Kids cannot modify family settings.
+Kids don't need to login, either a parent or adult can login the site and switch to kids mode, or parents can go to settings and generate a family shared link and open the app using that on kids devices. Kids cannot modify family settings.
 
 ### What happens if I forget my password?
 Use the **Forgot Password** link on the sign-in page. A reset code will be sent to your registered email.
@@ -21,8 +21,5 @@ Stars are earned when a chore is marked complete and optionally approved by a pa
 
 ### Is there a mobile app?
 The current version of Shabash is a responsive web application optimized for phones and tablets. Simply open the site in your mobile browser and add it to your home screen.
-
-### How do notifications work?
-You can enable email or push notifications in **Settings**. The system will notify you when chores are completed, rewards are claimed, or calendar events are approaching.
 
 If your question isn't answered here, please reach out to our support email.

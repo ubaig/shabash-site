@@ -39,10 +39,4 @@ Chores appear on everyone's dashboard, and completion triggers real-time notific
 
 Rewards help motivate children to stay on top of their tasks.
 
-## 5. Use the Calendar
-
-- The **Calendar** page shows chores and custom events in a familiar month/week view.
-- Add events like appointments, family meetings, or due dates.
-- Configure email reminders and mobile notifications in **Settings**.
-
 Enjoy keeping the whole family organized!
