@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Shabash on Shabash - Family Chore Tracker</title>
+    <title>Welcome to Shabash on Shabash</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to Shabash on Shabash - Family Chore Tracker</description>
+    <description>Recent content in Welcome to Shabash on Shabash</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -89,7 +89,7 @@
       <link>http://localhost:1313/signup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/signup/</guid>
-      <description>&lt;p&gt;To create a new family account, go to the &lt;a href=&#34;https://app.shabash.app/register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shabash web app&lt;/a&gt; and follow the registration steps.&lt;/p&gt;</description>
+      <description>&lt;p&gt;To create a new family account, go to the &lt;a href=&#34;https://shabashkids.online/register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shabash web app&lt;/a&gt; and follow the registration steps.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Started</title>
@@ -138,7 +138,7 @@
       <link>http://localhost:1313/signin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/signin/</guid>
-      <description>&lt;p&gt;If you already have a Shabash account, &lt;a href=&#34;https://app.shabash.app/login&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here to sign in&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;If you are new, please &lt;a href=&#34;http://localhost:1313/signup&#34;&gt;create an account&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;If you already have a Shabash account, &lt;a href=&#34;https://shabashkids.online/login&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;click here to sign in&lt;/a&gt;.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;If you are new, please &lt;a href=&#34;https://shabashkids.online/register&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;create an account&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stars &amp; Rewards</title>

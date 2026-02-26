@@ -1,5 +1,5 @@
 baseURL = "https://saasify-demo.chaoming.li/"
-title = "Shabash - Family Chore Tracker"
+title = "Shabash"
 defaultContentLanguage = "en"
 
 # Theme Config
@@ -62,6 +62,9 @@ enableGitInfo = true
     column_1_title = "Features"
     column_2_title = "Company"
     column_3_title = "Legal"
+    # Footer design credit (site overrideable)
+    designer = "CyberNest Pro"
+    designer_url = "https://cybernest.pro"
   
   [params.header]
     # Header background and border styles (optional)
