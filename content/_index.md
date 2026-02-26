@@ -1,6 +1,20 @@
 ---
 title: "Welcome to Shabash"
 description: "An easy, fun way for families to manage chores, earn stars, and claim rewards together."
+
+testimonials:
+  - name: "Emma, mom of two"
+    title: "Happy Parent"
+    avatar: "/images/testimonial/mom-1.jpg"
+    quote: "Shabash has transformed our mornings. The kids know what to do, and I can see their progress at a glance."
+  - name: "Liam, age 8"
+    title: "Proud Kid"
+    avatar: "/images/testimonial/kid-2.jpg"
+    quote: "I love earning stars and picking rewards. It feels like a game!"
+  - name: "Sophia, age 10"
+    title: "Big Sister"
+    avatar: "/images/testimonial/kid-1.jpg"
+    quote: "I get to help mom add chores and it's fun watching my little brother earn stars."
 ---
 
 {{< hero 
@@ -50,8 +64,8 @@ description: "An easy, fun way for families to manage chores, earn stars, and cl
 {{< /features-section >}}
 
 {{< testimonials 
-    title="Trusted by Modern Web Teams"
-    description="See how teams are building better websites with our theme."
+    title="What Parents & Kids Say"
+    description="Families love how Shabash makes chores fun and rewarding." 
     animate="true"
     background-color="#f1f5f9"
 >}}
