@@ -14,7 +14,6 @@ At Shabash, we take your privacy seriously. This Privacy Policy explains how we 
 ### Personal Information
 
 * **Name and email address**
-* **Billing information**
 * **Usage data and analytics**
 * **Communication preferences**
 
@@ -82,7 +81,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have questions about this Privacy Policy, please contact us at:
 
-* **Email:** privacy@shabash.app
-* **Address:** (not applicable - this is a small web service)
+* **Email:** support@shabashkids.online
 
-*Last Updated: January 2024*
+*Last Updated: Feburary 2026*
