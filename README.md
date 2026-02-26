@@ -161,3 +161,19 @@ npm run start
 ## License
 
 This project uses the Hugo Saasify Theme which is released under the [MIT license](https://github.com/chaoming/hugo-saasify-theme/blob/main/LICENSE).
+
+---
+
+## Shabash Content
+
+The example site has been customized for the Shabash family chore application. Key content locations:
+
+* `content/_index.md` — homepage hero and feature overview.
+* `content/features/` — detailed feature pages (chores, rewards, calendar).
+* `content/docs/` — support documentation (Getting Started, FAQ).
+* `content/company.md`, `pricing.md`, `privacy.md` — company info and policies.
+* `content/signin.md` and `content/signup.md` — redirect placeholders to the app.
+
+To update the public‑facing site, simply edit these markdown files and run the development server as described above. Additional pages can be created under `content/` following the Hugo conventions.
+
+Customize navigation entries in `hugo.toml` under the `[menu]` section to control header/footer links.

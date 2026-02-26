@@ -113,17 +113,17 @@
     <loc>http://localhost:1313/company/</loc>
     <lastmod>2026-02-25T23:02:03-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/features/design-system/</loc>
-    <lastmod>2026-02-25T23:02:03-05:00</lastmod>
+    <loc>http://localhost:1313/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/features/developer-experience/</loc>
-    <lastmod>2026-02-25T23:02:03-05:00</lastmod>
+    <loc>http://localhost:1313/features/chores/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/faq/</loc>
   </url><url>
     <loc>http://localhost:1313/features/</loc>
-    <lastmod>2026-02-25T23:02:03-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-25T23:02:03-05:00</lastmod>
+    <loc>http://localhost:1313/signup/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/getting-started/</loc>
   </url><url>
     <loc>http://localhost:1313/careers/</loc>
     <lastmod>2026-02-25T23:02:03-05:00</lastmod>
@@ -131,13 +131,19 @@
     <loc>http://localhost:1313/license/</loc>
     <lastmod>2026-02-25T23:02:03-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/features/performance/</loc>
-    <lastmod>2026-02-25T23:02:03-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/pricing/</loc>
     <lastmod>2026-02-25T23:02:03-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/privacy/</loc>
+    <lastmod>2026-02-25T23:02:03-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/features/calendar/</loc>
+  </url><url>
+    <loc>http://localhost:1313/signin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/features/rewards/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-02-25T23:02:03-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/zh-cn/</loc>

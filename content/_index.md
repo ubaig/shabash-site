@@ -1,84 +1,61 @@
 ---
-title: Home
-client_logos:
-  - name: "Customer 1"
-    logo: "/images/logos/customer-1.png"
-  - name: "Customer 2"
-    logo: "/images/logos/customer-2.png"
-  - name: "Customer 3"
-    logo: "/images/logos/customer-3.png"
-  - name: "Customer 4"
-    logo: "/images/logos/customer-4.png"
-  - name: "Customer 5"
-    logo: "/images/logos/customer-5.png"
-testimonials:
-  - name: "John Smith"
-    title: "CTO at TechStartup"
-    avatar: "/images/testimonial-1.svg"
-    quote: "We built our SaaS website in record time. The performance is incredible, and our users love the modern, clean design."
-  - name: "Sarah Johnson"
-    title: "Founder at WebFlow"
-    avatar: "/images/testimonial-1.svg"
-    quote: "The combination of Hugo and TailwindCSS delivers lightning-fast performance. Our website loads instantly, which has significantly improved our conversion rates."
-  - name: "Michael Chen"
-    title: "Lead Developer at CloudTech"
-    avatar: "/images/testimonial-1.svg"
-    quote: "This theme made it easy to create a professional SaaS website. The build times are incredibly fast, and the code is clean and maintainable."
+title: "Welcome to Shabash"
+description: "An easy, fun way for families to manage chores, earn stars, and claim rewards together."
 ---
 
 {{< hero 
-    headline="Build Your SaaS Website"
-    sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
-    primary_button_text="Get Started Free"
-    primary_button_url="#"
-    secondary_button_text="View Demo"
-    secondary_button_url="#"
+    headline="Make Chores Fun and Rewarding"
+    sub_headline="Shabash helps parents and kids stay organized with shared chore lists, star rewards, achievements, and calendar reminders."
+    primary_button_text="Get Started"
+    primary_button_url="/signup"
+    secondary_button_text="Learn More"
+    secondary_button_url="/features/"
     hero_image="/images/hero-dashboard.svg"
-    gradient-from="#dbeafe"
-    gradient-to="#f3e8ff"
+    gradient-from="#f0fdf4"
+    gradient-to="#eff6ff"
     gradient-angle="180"
 >}}
 
 {{< client-logos animate="true" >}}
 
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Shabash Features"
+    description="Everything your family needs to stay on top of chores and rewards."
 >}}
 
 {{< feature
-    title="Lightning-Fast Performance"
-    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Performance"
+    title="Family Chore Tracking"
+    description="Create chores, assign them to kids or parents, and track completion with an intuitive shared dashboard."
+    badge="Chores"
     badgeColor="#2563eb"
     image="/images/feature-1.svg"
-    buttonText="Learn More"
-    buttonLink="/features/performance/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    buttonText="View Details"
+    buttonLink="/features/chores/"
+    features="Recurring schedules,Approval workflow,Custom buckets,Star values"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Beautiful Design System"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Design"
+    title="Stars & Rewards"
+    description="Kids earn stars for completed chores and can redeem them for rewards set up by parents. Motivate good behavior with badges and achievements."
+    badge="Rewards"
     badgeColor="#7c3aed"
     image="/images/feature-2.svg"
     buttonText="Learn More"
-    buttonLink="/features/design-system/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    buttonLink="/features/rewards/"
+    features="Custom reward store,Achievement badges,Star history,Parent approvals"
     imagePosition="left"
 >}}
 
 {{< feature
-    title="Developer Experience"
-    description="Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
-    badge="Development"
+    title="Shared Calendar & Notifications"
+    description="Keep the family on schedule with calendar events and real‑time notifications whenever chores or stars change."
+    badge="Calendar"
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
-    buttonText="Learn More"
-    buttonLink="/features/developer-experience/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    buttonText="Discover"
+    buttonLink="/features/calendar/"
+    features="Events view,Email reminders,Mobile alerts,Timezone support"
     imagePosition="right"
 >}}
 
