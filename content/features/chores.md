@@ -27,13 +27,12 @@ Shabash makes chore management collaborative. Parents and children can view the 
 - **Assign to any family member** – choose who should be responsible for each chore.
 - **Editable by both parents** – families can add or modify chores together.
 - **Mark as complete** with one tap from the dashboard.
-- **Automatic reminders** ensure important chores aren't missed.
 
 ### How It Works
 
-1. Parent creates a new chore with title, description, emoji, and star value.
+1. Parents or kids both can creates a new chore with title, description, emoji, and star value.
 2. Select a frequency and who it's assigned to.
 3. Child sees the chore on their dashboard and marks it done when finished.
-4. Parent approves (if required) and stars are added to the kid's balance.
+4. Parents approve and stars are added to the kid's balance.
 
 Chores can be paused or archived when they are no longer needed, keeping the list clean and focused.

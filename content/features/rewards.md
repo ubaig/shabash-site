@@ -7,8 +7,6 @@ badgeColor: "#7c3aed"
 features:
   - title: "Custom Reward Store"
     description: "Parents add rewards with star costs, descriptions and optional images. Kids browse and claim items when they have enough stars."
-  - title: "Achievement Badges"
-    description: "Unlock fun badges for reaching milestones like ‘100 stars earned’ or ‘First chore completed’."
   - title: "Star History"
     description: "View a timeline of star transactions so everyone can track progress and spending."
   - title: "Parent Approvals"

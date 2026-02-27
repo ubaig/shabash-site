@@ -102,7 +102,7 @@ enableGitInfo = true
       # Get Started button
       [params.header.buttons.getStarted]
         text = "Get Started"
-        url = "/get-started"
+        url = "/signup"
 
   # Blog configuration (optional)
   [params.blog]
@@ -212,11 +212,6 @@ enableGitInfo = true
     name = "Rewards"
     url = "/features/rewards/"
     weight = 2
-  [[menu.footer_column_1]]
-    name = "Calendar"
-    url = "/features/calendar/"
-    weight = 3
-
   # Footer Column 2 Menu
   [[menu.footer_column_2]]
     name = "Getting Started"
