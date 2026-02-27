@@ -113,18 +113,18 @@ enableGitInfo = true
       
       # Categories section
       [params.blog.sidebar.categories]
-        enable = true
+        enable = false
         title = "Categories"
       
       # Tags section
       [params.blog.sidebar.tags]
-        enable = true
+        enable = false
         title = "Popular Tags"
         count = 20
 
       # Subscribe form section
       [params.blog.sidebar.subscribe]
-        enable = true
+        enable = false
         title = "Subscribe to Newsletter"
         description = "Get the latest posts delivered right to your inbox"
         action = "https://formspree.io/f/your-form-id"

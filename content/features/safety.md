@@ -5,6 +5,7 @@ description: "How Shabash keeps your family's data safe and private."
 badge: "Security"
 badgeColor: "#16a34a"
 image: "/images/screenshots/safety.png"
+layout: "simple"
 ---
 
 # Your Family's Safety is Our Top Priority
