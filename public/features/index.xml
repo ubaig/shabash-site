@@ -6,7 +6,15 @@
     <description>Recent content in Features on Shabash</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 26 Feb 2026 22:57:03 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/features/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Safety &amp; Privacy</title>
+      <link>http://localhost:1313/features/safety/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/features/safety/</guid>
+      <description>&lt;h1 id=&#34;your-familys-safety-is-our-top-priority&#34;&gt;Your Family&amp;rsquo;s Safety is Our Top Priority&lt;/h1&gt;&#xA;&lt;p&gt;At Shabash, we believe that a tool for families must be built on a foundation of trust. Because we are parents ourselves, we&amp;rsquo;ve designed Shabash with the same level of security and privacy we demand for our own children.&lt;/p&gt;&#xA;&lt;h2 id=&#34;privacy-by-design&#34;&gt;Privacy by Design&lt;/h2&gt;&#xA;&lt;p&gt;Unlike many other apps, Shabash is not built on data collection. We have a very simple philosophy: &lt;strong&gt;Your data belongs to you.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Family Chore Tracking</title>
       <link>http://localhost:1313/features/chores/</link>

@@ -1,73 +1,64 @@
 ---
 title: "Welcome to Shabash"
+date: 2026-02-26
 description: "An easy, fun way for families to manage chores, earn stars, and claim rewards together."
-
-testimonials:
-  - name: "Emma, mom of two"
-    title: "Happy Parent"
-    avatar: "/images/testimonial/mom-1.jpg"
-    quote: "Shabash has transformed our mornings. The kids know what to do, and I can see their progress at a glance."
-  - name: "Liam, age 8"
-    title: "Proud Kid"
-    avatar: "/images/testimonial/kid-2.jpg"
-    quote: "I love earning stars and picking rewards. It feels like a game!"
-  - name: "Sophia, age 10"
-    title: "Big Sister"
-    avatar: "/images/testimonial/kid-1.jpg"
-    quote: "I get to help mom add chores and it's fun watching my little brother earn stars."
 ---
 
 {{< hero 
-    headline="Make Chores Fun and Rewarding"
-    sub_headline="Shabash helps parents and kids stay organized with shared chore lists, star rewards, achievements, and calendar reminders."
-    primary_button_text="Get Started"
+    headline="The Chore Tracker Built by Parents, for Parents"
+    sub_headline="Join thousands of families using Shabash to build better habits, teach responsibility, and celebrate achievements in a safe, private environment."
+    primary_button_text="Get Started Free"
     primary_button_url="/signup"
-    secondary_button_text="Learn More"
-    secondary_button_url="/features/"
+    secondary_button_text="Why we built this"
+    secondary_button_url="/company/"
     hero_image="/images/screenshots/chores1.png"
     gradient-from="#f0fdf4"
     gradient-to="#eff6ff"
     gradient-angle="180"
 >}}
 
-{{< client-logos animate="true" >}}
+{{< section-container >}}
+
+{{< benefits-grid 
+    title="Why Choose Shabash?"
+    subtitle="We built Shabash to solve our own family struggles. Here is what makes us different."
+    benefit1="target|#2563eb|By Parents, For Parents|We understand the daily chaos of parenting. Shabash is designed by real parents to be intuitive, fair, and actually helpful."
+    benefit2="check|#16a34a|Privacy First|Your family's data is precious. We have zero ads, zero tracking, and we never sell your data. Your life stays private."
+    benefit3="attribution|#7c3aed|Life Skills, Not Just Tasks|We focus on the 'why'—teaching children the value of contribution and the rewards of hard work in a positive way."
+>}}
+{{< /section-container >}}
 
 {{< features-section 
-    title="Shabash Features"
-    description="Everything your family needs to stay on top of chores and rewards."
+    title="Designed for Your Family"
+    description="Everything you need to turn chores from a chore into a celebration."
 >}}
 
 {{< feature
-    title="Family Chore Tracking"
-    description="Create chores, assign them to kids or parents, and track completion with an intuitive shared dashboard."
+    title="Fair & Transparent Tracking"
+    description="Create chores, assign them fairly, and track completion with an intuitive shared dashboard. No more 'I forgot' or 'That's not my job'."
     badge="Chores"
     badgeColor="#2563eb"
     image="/images/screenshots/assign-chores.png"
-    buttonText="View Details"
+    buttonText="Explore Chores"
     buttonLink="/features/chores/"
-    features="Recurring schedules,Approval workflow,Custom buckets,Star values"
+    features="Recurring schedules,Easy approval flow,Customizable buckets,Fair star valuation"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Stars & Rewards"
-    description="Kids earn stars for completed chores and can redeem them for rewards set up by parents. Motivate good behavior with badges and achievements."
+    title="Motivation That Works"
+    description="Kids earn stars for their contributions and can redeem them for rewards you set. It's about celebrating growth, not just completing lists."
     badge="Rewards"
     badgeColor="#7c3aed"
     image="/images/screenshots/rewards.png"
-    buttonText="Learn More"
+    buttonText="See Rewards"
     buttonLink="/features/rewards/"
-    features="Custom reward store,Achievement badges,Star history,Parent approvals"
+    features="Parent-curated reward store,Achievement badges,Star history tracking,Positive reinforcement"
     imagePosition="left"
 >}}
 
 {{< /features-section >}}
 
-{{< testimonials 
-    title="What Parents & Kids Say"
-    description="Families love how Shabash makes chores fun and rewarding." 
-    animate="true"
-    background-color="#f1f5f9"
->}}
-
 {{< cta >}}
+
+

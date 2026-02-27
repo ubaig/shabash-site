@@ -31,17 +31,17 @@ enableGitInfo = true
   # Global CTA Configuration
   [params.cta]
     enable = true
-    title = "Start Managing Chores Today"
-    description = "Sign up for a free family account and begin assigning chores in minutes."
+    title = "Ready to transform your family's routine?"
+    description = "Join thousands of parents who have turned chores into a positive experience. Set up your family account in less than 2 minutes."
     gradient_from = "#2563eb"  # Indigo-600
     gradient_to = "#7c3aed"    # Purple-600
     gradient_angle = 30
     [params.cta.primary_button]
-      text = "Get Started"
+      text = "Get Started Free"
       url = "/signup"
     [params.cta.secondary_button]
-      text = "Learn More"
-      url = "/docs/getting-started/"
+      text = "Explore Safety"
+      url = "/features/safety/"
   
   # Social Media Links
   [params.social]
@@ -191,17 +191,21 @@ enableGitInfo = true
     url = "/docs/getting-started/"
     weight = 2
   [[menu.main]]
+    name = "Safety"
+    url = "/features/safety/"
+    weight = 3
+  [[menu.main]]
     name = "Support"
     url = "/docs/faq/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Sign In"
     url = "/signin"
-    weight = 4
+    weight = 5
   [[menu.main]]
     name = "Get Started"
     url = "/signup"
-    weight = 5
+    weight = 6
 
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
@@ -212,6 +216,11 @@ enableGitInfo = true
     name = "Rewards"
     url = "/features/rewards/"
     weight = 2
+  [[menu.footer_column_1]]
+    name = "Safety"
+    url = "/features/safety/"
+    weight = 3
+
   # Footer Column 2 Menu
   [[menu.footer_column_2]]
     name = "Getting Started"
@@ -231,3 +240,7 @@ enableGitInfo = true
     name = "Terms of Service"
     url = "/terms"
     weight = 2
+  [[menu.footer_column_3]]
+    name = "About Us"
+    url = "/company/"
+    weight = 3
