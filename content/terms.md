@@ -49,4 +49,4 @@ These Terms are governed by the laws of the jurisdiction where Shabash operates,
 We may modify these Terms from time to time. We will post the updated Terms on the Site with a revised "Last updated" date. Continued use of the Service after changes constitutes acceptance of the revised Terms.
 
 ## 14. Contact
-If you have questions about these Terms, please contact us at support@shabashkids.online.
+If you have questions about these Terms, please contact us using https://forms.gle/eCXnWbSvAFcMpaGb6
