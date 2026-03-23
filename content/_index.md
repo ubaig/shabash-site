@@ -73,8 +73,13 @@ testimonials:
 
 {{< /features-section >}}
 
-{{< testimonials 
-    title="Loved by Real Families"
+{{< feature-cards
+    title="Features That Set Us Apart"
+    subtitle="From an invite-only community to an AI-powered family coach, Shabash goes beyond a simple task list."
+>}}
+
+{{< testimonials
+    title="Loved by Families"
     description="See how Shabash is helping families across the globe build harmony." 
     animate="true"
     background-color="#f1f5f9"

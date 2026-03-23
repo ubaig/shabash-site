@@ -33,8 +33,8 @@ enableGitInfo = true
     enable = true
     title = "Ready to transform your family's routine?"
     description = "Join thousands of parents who have turned chores into a positive experience. Set up your family account in less than 2 minutes."
-    gradient_from = "#2563eb"  # Indigo-600
-    gradient_to = "#7c3aed"    # Purple-600
+    gradient_from = "#4f46e5"  # Indigo-600 (matches Shabash app)
+    gradient_to = "#6d28d9"    # Purple-700 (matches Shabash app)
     gradient_angle = 30
     [params.cta.primary_button]
       text = "Get Started Free"
@@ -198,14 +198,6 @@ enableGitInfo = true
     name = "Support"
     url = "/docs/faq/"
     weight = 4
-  [[menu.main]]
-    name = "Sign In"
-    url = "/signin"
-    weight = 5
-  [[menu.main]]
-    name = "Get Started"
-    url = "/signup"
-    weight = 6
 
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
@@ -220,6 +212,14 @@ enableGitInfo = true
     name = "Safety"
     url = "/features/safety/"
     weight = 3
+  [[menu.footer_column_1]]
+    name = "Golden Ticket"
+    url = "/features/golden-ticket/"
+    weight = 4
+  [[menu.footer_column_1]]
+    name = "AI Assistant"
+    url = "/features/ai-assistant/"
+    weight = 5
 
   # Footer Column 2 Menu
   [[menu.footer_column_2]]
