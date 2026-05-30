@@ -63,8 +63,8 @@ enableGitInfo = true
     column_2_title = "Company"
     column_3_title = "Legal"
     # Footer design credit (site overrideable)
-    designer = "CyberNest Pro"
-    designer_url = "https://cybernest.pro"
+    designer = "Null2Infinity"
+    designer_url = "https://null2infinity.com"
   
   [params.header]
     # Header background and border styles (optional)
